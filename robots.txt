@@ -1,0 +1,4 @@
+# Unofficial redesign preview of https://www.howellfamilyeyecare.com
+# Nothing here should be indexed: it must not compete with the practice's own site.
+User-agent: *
+Disallow: /

@@ -1,0 +1,962 @@
+{
+  "what": "Unofficial redesign preview of www.howellfamilyeyecare.com. Not operated by, affiliated with or endorsed by Howell Family EyeCare.",
+  "preview": "https://chris-sgen.github.io/howellfamilyeyecare/",
+  "liveSite": "https://www.howellfamilyeyecare.com/",
+  "generated": "2026-10-26T04:35:46.299Z",
+  "snapshot": {
+    "pagesReadUtc": {
+      "first": "2026-10-25T23:18:17.246Z",
+      "last": "2026-10-25T23:27:53.462Z",
+      "addresses": 361
+    },
+    "picturesDownloadedByUtc": "2026-10-25T23:36:53.014Z",
+    "browserPassOverTheLiveSiteUtc": {
+      "from": "2026-10-25T23:54:31.635Z",
+      "to": "2026-10-26T01:48:01.920Z"
+    }
+  },
+  "pages": 354,
+  "files": 1463,
+  "hardening": {
+    "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+    "robotsTags": 354,
+    "noReferrerTags": 354,
+    "jsonLdBlocksRemoved": 1059,
+    "linkPreviewPictureTagsRemoved": 763,
+    "ogUrlRewritten": 354,
+    "siteNameRewritten": 354,
+    "descriptionsCarryingTheDisclosure": 354,
+    "pageDescriptionsReplaced": {
+      "promisedAnOnlineFormRegistrationOrAppointment": [
+        "/12-tips-for-optimal-eye-health-2019/",
+        "/contact-us/appointment-request-form/",
+        "/contact-us/contact-form/",
+        "/contact-us/",
+        "/contact-us/patient-registration-form/"
+      ]
+    },
+    "linkCardTitlesMarked": 354,
+    "cardTitlesKeptWhole": [
+      {
+        "page": "/",
+        "title": "Welcome to Howell Family Eyecare",
+        "pageTitle": "Welcome to - Howell Family Eyecare"
+      }
+    ],
+    "iconLinksRemoved": 708,
+    "formsOfThePractice": {
+      "inThisCopy": 0,
+      "onTheLiveSiteWhenRead": 0,
+      "pagesNamedForAFormThatHoldOnlyTheirTitle": [
+        "/contact-form/",
+        "/contact-us/appointment-request-form/",
+        "/contact-us/contact-form/",
+        "/contact-us/patient-registration-form/",
+        "/for-vendors/"
+      ]
+    },
+    "photographsNotShown": {
+      "snapshotsOfPeople": [
+        {
+          "shows": "a snapshot of a younger and an older woman",
+          "places": [
+            {
+              "page": "/hope-in-sight-for-low-vision/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /hope-in-sight-for-low-vision/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a girl in a swimsuit jumping into a pool",
+          "places": [
+            {
+              "page": "/poolside-eye-safety-2016/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /poolside-eye-safety-2016/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a man holding a sleeping child",
+          "places": [
+            {
+              "page": "/a-look-behind-sleeping-eyes/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /a-look-behind-sleeping-eyes/"
+            }
+          ]
+        },
+        {
+          "shows": "a photograph of a man at a retinal camera in an examination room",
+          "places": [
+            {
+              "page": "/new-study-shows-how-your-eyes-shed-light-on-your-health/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /new-study-shows-how-your-eyes-shed-light-on-your-health/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a girl seen from behind, outdoors in autumn",
+          "places": [
+            {
+              "page": "/category/uncategorized/",
+              "place": "the picture of a post card that leads to /fall-eye-allergies-2016/"
+            },
+            {
+              "page": "/fall-eye-allergies-2016/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /fall-eye-allergies-2016/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of two girls in goggles swimming in a pool",
+          "places": [
+            {
+              "page": "/does-chlorine-hurt-your-eyes/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /does-chlorine-hurt-your-eyes/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a girl in sunglasses on a balcony",
+          "places": [
+            {
+              "page": "/sunwear-for-a-bright-future-2016/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /sunwear-for-a-bright-future-2016/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a girl in oversized novelty glasses",
+          "places": [
+            {
+              "page": "/10-tips-to-teach-children-about-eye-safety-2016/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /10-tips-to-teach-children-about-eye-safety-2016/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a girl and a man on bicycles",
+          "places": [
+            {
+              "page": "/prevent-age-related-macular-degeneration-2016/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/protective-sports-eyewear-is-a-serious-matter/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /prevent-age-related-macular-degeneration-2016/"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /protective-sports-eyewear-is-a-serious-matter/"
+            }
+          ]
+        },
+        {
+          "shows": "a close-up snapshot of a young woman in sunglasses",
+          "places": [
+            {
+              "page": "/what-women-need-to-know-about-eye-health/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /what-women-need-to-know-about-eye-health/"
+            }
+          ]
+        },
+        {
+          "shows": "a close-up snapshot of a young man in safety glasses",
+          "places": [
+            {
+              "page": "/an-active-and-eye-safe-lifestyle-2016/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/category/uncategorized/",
+              "place": "the picture of a post card that leads to /an-active-and-eye-safe-lifestyle-2016/"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /an-active-and-eye-safe-lifestyle-2016/"
+            }
+          ]
+        },
+        {
+          "shows": "a snapshot of a girl at a computer, seen from behind",
+          "places": [
+            {
+              "page": "/protecting-your-eyes-from-the-desk-job/",
+              "place": "the picture at the head of the page"
+            },
+            {
+              "page": "/whats-new/",
+              "place": "the picture of a post card that leads to /protecting-your-eyes-from-the-desk-job/"
+            }
+          ]
+        }
+      ],
+      "iconTiles": 15,
+      "pagesWhoseHeadNowHasNoPicture": [
+        "/10-tips-to-teach-children-about-eye-safety-2016/",
+        "/a-look-behind-sleeping-eyes/",
+        "/an-active-and-eye-safe-lifestyle-2016/",
+        "/does-chlorine-hurt-your-eyes/",
+        "/fall-eye-allergies-2016/",
+        "/hope-in-sight-for-low-vision/",
+        "/new-study-shows-how-your-eyes-shed-light-on-your-health/",
+        "/poolside-eye-safety-2016/",
+        "/prevent-age-related-macular-degeneration-2016/",
+        "/protecting-your-eyes-from-the-desk-job/",
+        "/protective-sports-eyewear-is-a-serious-matter/",
+        "/sunwear-for-a-bright-future-2016/",
+        "/what-women-need-to-know-about-eye-health/"
+      ]
+    },
+    "photographsShownAsOnTheLiveSite": {
+      "portraitsOfTheOptometrists": {
+        "Dr. Brett Howell": [
+          "/our-eye-doctors/",
+          "/team/dr-brett-howell-od/"
+        ],
+        "Dr. Kristen Moore": [
+          "/our-eye-doctors/"
+        ]
+      },
+      "headOfTheHomePage": "appears to show Dr. Brett Howell with a woman and two children, outdoors"
+    },
+    "filmsOfAVideoSiteNotShown": [
+      {
+        "page": "/this-halloween-be-wary-of-costume-contact-lenses/",
+        "id": "H45GYPAuTdg",
+        "still": "none"
+      }
+    ],
+    "liveTextNotes": {
+      "pages": [
+        "/disclaimer/",
+        "/privacy-policy/",
+        "/website-accessibility-policy/",
+        "/welcome-to-our-new-website/",
+        "/request-your-next-appointment-online/",
+        "/insurance/carecredit/",
+        "/contact-us/",
+        "/help-my-child-does-not-want-to-wear-glasses-2019/",
+        "/cataract-awareness-month-2019/",
+        "/eye-care-services/"
+      ],
+      "cardsThatNoLongerPrintTheOpeningWordsOfThosePages": [
+        {
+          "page": "/insurance/",
+          "leadsTo": "/insurance/carecredit/"
+        },
+        {
+          "page": "/whats-new/",
+          "leadsTo": "/cataract-awareness-month-2019/"
+        },
+        {
+          "page": "/whats-new/",
+          "leadsTo": "/help-my-child-does-not-want-to-wear-glasses-2019/"
+        },
+        {
+          "page": "/whats-new/",
+          "leadsTo": "/welcome-to-our-new-website/"
+        },
+        {
+          "page": "/whats-new/",
+          "leadsTo": "/request-your-next-appointment-online/"
+        }
+      ],
+      "searchIndexEntriesThatNoLongerHoldThem": [
+        {
+          "page": "/insurance/",
+          "field": "the words",
+          "leadsTo": "/insurance/carecredit/"
+        },
+        {
+          "page": "/whats-new/",
+          "field": "the words",
+          "leadsTo": "/cataract-awareness-month-2019/"
+        },
+        {
+          "page": "/whats-new/",
+          "field": "the words",
+          "leadsTo": "/help-my-child-does-not-want-to-wear-glasses-2019/"
+        },
+        {
+          "page": "/whats-new/",
+          "field": "the words",
+          "leadsTo": "/welcome-to-our-new-website/"
+        },
+        {
+          "page": "/whats-new/",
+          "field": "the words",
+          "leadsTo": "/request-your-next-appointment-online/"
+        }
+      ]
+    },
+    "linksThatLostMarks": {
+      "total": 5,
+      "byHost": {
+        "google.com": 2,
+        "amazon.com": 2,
+        "diabetes.org": 1
+      },
+      "marks": {
+        "google": [
+          "rlz",
+          "sxsrf",
+          "ei",
+          "oq",
+          "gs_l",
+          "ved",
+          "uact"
+        ],
+        "amazonSearch": [
+          "s",
+          "ie",
+          "qid",
+          "sr",
+          "keywords",
+          "/ref=sr_1_1"
+        ],
+        "amazonAssociate": [
+          "tag",
+          "linkCode",
+          "camp",
+          "creative",
+          "creativeASIN"
+        ],
+        "diabetesOrg": [
+          "loc"
+        ]
+      }
+    },
+    "linksToAnotherEyeCarePracticesSiteThatKeepTheirWordsOnly": {
+      "host": "universityoptometry.com",
+      "links": 11,
+      "pages": [
+        "/age-related-macular-degeneration-and-your-central-vision/",
+        "/does-chlorine-hurt-your-eyes/",
+        "/first-aid-for-eye-injuries/",
+        "/how-to-prevent-dry-eyes-during-air-travel/",
+        "/june-is-cataract-awareness-month/",
+        "/pink-stinging-eyes-it-could-be-pink-eye/",
+        "/technology-in-the-classroom-and-the-eyes/",
+        "/the-great-glasses-play-day-2013/",
+        "/this-halloween-be-wary-of-costume-contact-lenses/",
+        "/treating-vision-problems-lowers-risk-of-falling-in-seniors/",
+        "/understanding-the-eye-chart/"
+      ]
+    },
+    "creditApplicationLinkToTheLivePage": [
+      {
+        "page": "/insurance/carecredit/",
+        "link": "credit application",
+        "now": "the live page /insurance/carecredit/"
+      }
+    ],
+    "bannersReTonedByThePrivateBuild": [
+      "designer-frame-3a",
+      "glasses-hero-1",
+      "highway-location-page",
+      "insurance-family-3",
+      "glasses-contacts-hero",
+      "new-services-hero-2b"
+    ],
+    "documentOfThePractice": {
+      "notShipped": [
+        "assets/docs/Book-4-1.pdf"
+      ],
+      "links": 354,
+      "pages": 354,
+      "nowOpen": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3074/2021/11/Book-4-1.pdf"
+    },
+    "mapFramesWithNoReferrer": {
+      "frames": 353,
+      "alreadySoInThePrivateBuild": 353
+    },
+    "canonicalRemoved": [
+      "/404.html",
+      "/search/",
+      "/sitemap/"
+    ],
+    "canonicalAsTheLivePageNamesIt": 0,
+    "searchIndexEntriesReducedToTitleSectionAndShortNames": [
+      "/cataract-awareness-month-2019/",
+      "/contact-us/",
+      "/disclaimer/",
+      "/eye-care-services/",
+      "/help-my-child-does-not-want-to-wear-glasses-2019/",
+      "/insurance/carecredit/",
+      "/privacy-policy/",
+      "/request-your-next-appointment-online/",
+      "/website-accessibility-policy/",
+      "/welcome-to-our-new-website/"
+    ],
+    "searchIndexFieldsBlanked": [
+      {
+        "page": "/contact-us/appointment-request-form/",
+        "field": "the summary"
+      },
+      {
+        "page": "/contact-us/contact-form/",
+        "field": "the summary"
+      },
+      {
+        "page": "/contact-us/patient-registration-form/",
+        "field": "the summary"
+      }
+    ],
+    "loopAndSearchIndexAddressesMadeRelativeToThePage": 3,
+    "toolingHelperRemovedFromPages": 353,
+    "scriptsPatchedForAFilmFrame": [
+      "assets/js/site.bb4c3291bd.js"
+    ],
+    "commentsTakenOut": {
+      "css": 278,
+      "js": 111
+    },
+    "svgCleaned": [],
+    "aiLabels": {
+      "webp": 111,
+      "mp4": 2
+    },
+    "notShipped": [
+      ".htaccess",
+      "llms.txt",
+      "sitemap.xml",
+      "vercel.json",
+      "_headers",
+      "_redirects"
+    ],
+    "robotsTxt": "the private build's file is replaced by the preview's own (Disallow: /)",
+    "filesNothingNamesNotShipped": {
+      "total": 172,
+      "sizesOfTheSnapshotsNotShown": 60,
+      "sizesOfPicturesOnlyTheLinkPreviewTagsNamed": 107,
+      "filesOfThePracticesIcon": 2,
+      "filesOfTheSitemap": 3
+    },
+    "fontLicences": [
+      "assets/fonts/OFL-SourceSans3.txt",
+      "assets/fonts/OFL-SourceSerif4.txt"
+    ],
+    "preview_css": "assets/css/preview.css"
+  },
+  "generatedMedia": [
+    {
+      "file": "loop-library",
+      "kind": "loop",
+      "shows": "silver metal eyeglasses folded on white linen, with the patterns of light cast through the lenses moving slowly on the cloth and returning (made from one still, used as its first and last frame)",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame, from a still made for it (fal.ai: nano-banana-pro)",
+      "files": 5,
+      "pages": [
+        "/eye-care-services/your-eye-health/eye-exams/"
+      ]
+    },
+    {
+      "file": "still-contacts",
+      "kind": "still",
+      "shows": "a plain white two-well contact-lens case, a clear lens in one well, on grey stone beside a sky blue cloth",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 14,
+      "pages": [
+        "/eye-care-services/contact-lens-exams/hard-to-fit/",
+        "/eye-care-services/your-eye-health/childrens-vision/",
+        "/eye-care-services/your-eye-health/childrens-vision/are-contact-lenses-a-good-choice-for-kids/",
+        "/eye-care-services/your-eye-health/contact-lens-basics/",
+        "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+        "/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+        "/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-drops",
+      "kind": "still",
+      "shows": "drops of water on pale glass over a sky blue ground",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 16,
+      "pages": [
+        "/8-tips-to-beat-winter-dry-eyes/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/blepharitis/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/dry-eye-syndrome/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/eye-allergies/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/pink-eye-conjunctivitis/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+        "/eye-care-services/your-eye-health/vision-over-40/",
+        "/eye-care-services/your-eye-health/vision-over-40/dry-eye-after-menopause/",
+        "/know-how-and-when-to-treat-an-eye-infection/",
+        "/pink-stinging-eyes-it-could-be-pink-eye/",
+        "/pink-stinging-eyes/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-exam",
+      "kind": "still",
+      "shows": "the polished ring of a lens, seen close and from one side",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 16,
+      "pages": [
+        "/age-related-macular-degeneration-and-your-central-vision/",
+        "/eye-care-services/eye-exams/pediatric-eye-exams/",
+        "/eye-care-services/faq/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/amblyopia-lazy-eye/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/cmv-retinitis/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/corneal-transplant/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/eye-floaters-and-spots/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/glaucoma/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/keratoconus/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/pingueculae-pterygia/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/presbyopia/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/ptosis/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+        "/eye-care-services/your-eye-health/eye-conditions-info/uveitis/",
+        "/eye-care-services/your-eye-health/eye-diseases/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/cataract-surgery-treatment/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/common-questions-about-presbyopia-correcting-iols/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/causes-of-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/overview-of-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/signs-and-symptoms-of-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/glaucoma/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/forms-of-macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/overview/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/symptoms-risk-factors-of-macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/glaucoma-test/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/retinoscope/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-testing/",
+        "/eye-care-services/your-eye-health/eye-exams/preparing-for-an-eye-exam/",
+        "/eye-care-services/your-eye-health/eye-exams/why-are-eye-exams-important/",
+        "/eye-care-services/your-eye-health/eye-exams/your-comprehensive-eye-exam/",
+        "/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+        "/eye-care-services/your-eye-health/healthy-sight/",
+        "/eye-care-services/your-eye-health/how-the-eye-works/",
+        "/eye-care-services/your-eye-health/vision-over-40/",
+        "/eye-care-services/your-eye-health/vision-over-40/how-progressive-lenses-work/",
+        "/eye-care-services/your-eye-health/vision-over-40/occupational-bifocal-and-trifocals/",
+        "/eye-care-services/your-eye-health/vision-over-60/",
+        "/eye-care-services/your-eye-health/vision-over-60/age-your-vision-changes-solutions/",
+        "/eye-care-services/your-eye-health/vision-over-60/seven-tips-for-optimal-vision/",
+        "/eye-care-services/your-eye-health/vision-over-60/suggestions-for-age-related-vision-loss/",
+        "/eye-care-services/your-eye-health/vision-surgery/",
+        "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+        "/eye-care-services/your-eye-health/vision-surgery/corneal-transplant/",
+        "/eye-care-services/your-eye-health/vision-surgery/corrective-eye-surgery-basics/",
+        "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+        "/eye-care-services/your-eye-health/vision-surgery/lasik-risks-and-complications/",
+        "/eye-care-services/your-eye-health/vision-surgery/lasik/",
+        "/eye-care-services/your-eye-health/vision-surgery/prk/",
+        "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+        "/first-aid-for-eye-injuries/",
+        "/october-is/",
+        "/tag/all-about-vision/",
+        "/treating-vision-problems-lowers-risk-of-falling-in-seniors/",
+        "/under-pressure-are-you-at-risk-for-glaucoma/",
+        "/whats-new/",
+        "/women-and-diabetes-world-diabetes-day-2017/"
+      ]
+    },
+    {
+      "file": "still-frames",
+      "kind": "still",
+      "shows": "three folded eyeglass frames (indigo acetate, thin silver metal with clear nose pads, and translucent grey acetate) in a diagonal row on white linen beside a sky blue napkin",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 16,
+      "pages": [
+        "/eye-care-services/your-eye-health/vision-over-40/",
+        "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+        "/eye-care-services/your-eye-health/vision-over-40/reading-glasses-after-40/",
+        "/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+        "/eyeglasses-contacts/eyeglasses/eyeglass-basics/eyeglass-frames/",
+        "/eyeglasses-contacts/eyeglasses/eyeglass-basics/womens-eyeglass-frames/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+        "/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+        "/eyeglasses-contacts/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+        "/eyeglasses-contacts/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+        "/eyeglasses-contacts/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+        "/eyeglasses-contacts/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+        "/eyeglasses-contacts/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+        "/whats-new/",
+        "/why-do-we-need-glasses/"
+      ]
+    },
+    {
+      "file": "still-kids",
+      "kind": "still",
+      "shows": "two children's eyeglass frames, sky blue and indigo, on a pale ash table beside plain wooden blocks and two wooden toy cars",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 14,
+      "pages": [
+        "/eye-care-services/your-eye-health/childrens-vision/",
+        "/eye-care-services/your-eye-health/childrens-vision/childrens-vision-faqs/",
+        "/eye-care-services/your-eye-health/childrens-vision/controlling-nearsightedness-in-children/",
+        "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+        "/eye-care-services/your-eye-health/childrens-vision/your-infants-visual-development/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/children-and-computer-vision-syndrome/",
+        "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-children/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-lens",
+      "kind": "still",
+      "shows": "two thin curved lens blanks, one leaning and one lying flat, on pale grey stone against an indigo wall",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+        "/eyeglasses-contacts/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses/",
+        "/eyeglasses-contacts/eyeglasses/lens-treatments/",
+        "/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+        "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/"
+      ]
+    },
+    {
+      "file": "still-screen-clean",
+      "kind": "still",
+      "shows": "silver metal eyeglasses before a closed plain laptop, a white mug and an indigo cloth (a pretend size print that the model drew along the inside of both temples was taken off)",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 16,
+      "pages": [
+        "/eye-care-services/your-eye-health/computer-eyestrain/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/blue-lighthigh-energy-visible-hev-light-and-your-eyes/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/computer-glasses/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-screening/",
+        "/refocus-on-the-digital-age-with-computer-glasses/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-sun",
+      "kind": "still",
+      "shows": "a pair of indigo sunglasses with grey gradient lenses on a stone ledge in sunshine, with blue water behind",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eyeglasses-contacts/eyeglasses/sunglasses/",
+        "/eyeglasses-contacts/eyeglasses/sunglasses/nonprescription-sunglasses/",
+        "/eyeglasses-contacts/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+        "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+        "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglasses/",
+        "/eyeglasses-contacts/eyeglasses/sunglasses/sunglasses-for-kids/"
+      ]
+    }
+  ],
+  "generatedMediaRemarks": [
+    {
+      "id": "still-library",
+      "remark": "The still itself is not shipped: the library's Eye Exams section shows the loop made from it, with the loop's first frame as the poster."
+    },
+    {
+      "id": "loop-library",
+      "remark": "Five seconds, 24 frames a second, first and last frame the same picture: the light shifts over the linen and returns; the glasses do not move. Encoded silent at 960 and 600 px by the private build, none of the service's tags carried over."
+    }
+  ],
+  "synthId": "the C2PA manifest of each fal.ai original says \"Applied imperceptible SynthID watermark.\" (a watermark in the picture itself); not tested for in the shipped files",
+  "homePage": {
+    "runsOfTextOfItsOwnContentThatTheLiveHomePageDoesNotPrint": {
+      "testimonialsPrintedWhole": 2,
+      "datesOfTheLatestPosts": [
+        "January 16, 2020",
+        "December 22, 2019",
+        "December 11, 2019",
+        "November 26, 2019"
+      ],
+      "addressOnOneLine": [
+        "2 South Rowe Street, Pryor, OK 74361"
+      ],
+      "controls": [
+        "Call 918-825-8022",
+        "Directions"
+      ]
+    },
+    "labelsForScreenReadersTheLiveHomePageDoesNotHave": [
+      "Rated 5 out of 5",
+      "Map: Howell Family EyeCare, 2 South Rowe Street, Pryor, OK 74361"
+    ],
+    "note": "its own content is what stands between its header and its footer; the header, menus and footer are those of every page"
+  },
+  "testimonials": {
+    "signedAs": [
+      "Silvana A.",
+      "Ronnie B."
+    ],
+    "carriedOn": [
+      "/",
+      "/contact-us/testimonials/",
+      "/testimonial/4727-2/",
+      "/testimonial/4729-2/"
+    ]
+  },
+  "verification": {
+    "measured": "on a local server imitating a GitHub Pages project site under the project path",
+    "browser": "Chrome 155",
+    "previewChecksVerdict": "PASS",
+    "pageLoads": 707,
+    "picturesLoaded": 3522,
+    "loopsPlayed": 1,
+    "formTrials": {
+      "forms": 0,
+      "trials": 0,
+      "shipped": 0,
+      "control": 0,
+      "attributes": 0,
+      "guards": 0,
+      "controlsSeen": 0,
+      "enterPressed": 0,
+      "buttonClicked": 0
+    },
+    "search": {
+      "results": 30,
+      "outside": 0
+    },
+    "referencesRead": 76833,
+    "localReferences": 71666,
+    "binaries": {
+      "webp": 1086,
+      "mp4": 2,
+      "woff2": 8,
+      "svg": 0,
+      "aiLabels": 113
+    },
+    "selfTest": {
+      "defectsPlanted": 136,
+      "reportsExpected": 175,
+      "reportsGiven": 175,
+      "staticRules": 158,
+      "staticRulesExercised": 137,
+      "staticRulesNotExercised": {
+        "note": "rules of the verifier, which is written for previews of other sites too: 14 are about kinds of content this copy does not have (boxes for directions, pages written in Spanish, another address of the clinic, a place that is not the practice's, a former web address, the forms of a review company), 4 about files the verifier cannot read at all, and 3 about missing or mislabelled files that the self-test does not plant",
+        "rules": [
+          "notes for the boxes for directions: not one for each box of the private build",
+          "a note for a box for directions that does not link to the live page",
+          "a note for a box for directions that does not name its destination",
+          "a note on a page written in Spanish that does not say its language",
+          "the note in Spanish is missing or doubled",
+          "another address of the clinic on a page without the note that says so",
+          "a place that is not the practice's",
+          "notes for the review company's forms: not one for each form of the private build",
+          "a note for a form of the review company that does not link to the live page",
+          "a note for a form of the review company outside the head of the page",
+          "a link to the former web address of the practice",
+          "the script cannot be read for comments",
+          "the search index cannot be read",
+          "the search index is not a list of entries",
+          "the search index names a place that is not the practice's",
+          "the search index names another address of the clinic outside the page whose note says so",
+          "the font's name records cannot be read",
+          "a font file that does not name its project",
+          "missing (the host would answer an unknown address with its own page)",
+          "the forms of the review company in the private build are not the ones preview-config.mjs names",
+          "missing (run preview-docs.mjs)"
+        ]
+      },
+      "rulesOfTheBrowserPass": 22,
+      "rulesOfTheFormTrials": 12,
+      "rulesOfThePublicAddressPass": 19
+    }
+  },
+  "pictures": {
+    "fromTheLiveSiteByFileName": 249,
+    "fromTheLiveSiteCountingEachVersion": 305,
+    "generatedFiles": 113,
+    "pagesShowingAGeneratedPicture": 141,
+    "pagesThatMustShowNoGeneratedPicture": {
+      "words": [
+        "/team/",
+        "/our-eye-doctors/",
+        "/the-staff/",
+        "/testimonials/",
+        "/contact-us/",
+        "/hours-location/",
+        "/location/",
+        "/disclaimer/",
+        "/privacy-policy/",
+        "/website-accessibility-policy/",
+        "/sitemap/",
+        "/insurance/",
+        "/designer-frames/",
+        "/transitions-lenses/",
+        "/404",
+        "/whats-new/",
+        "/category/",
+        "/tag/",
+        "/author/",
+        "/template/",
+        "/advanced-technology/",
+        "/optomap/",
+        "/eyeglass-guide/",
+        "welcome-to-our-new-website",
+        "request-your-next-appointment-online",
+        "/for-vendors/",
+        "/contact-form/",
+        "/our-featured-brands/",
+        "/kids-optical/",
+        "/latisse/",
+        "/testimonial/",
+        "the-great-glasses-play-day"
+      ],
+      "pages": 45,
+      "ofThoseShowingOneOnTheCardOfAnotherPage": [
+        "/tag/all-about-vision/",
+        "/whats-new/"
+      ]
+    },
+    "aPictureOfTheLiveSiteNamedChatGptImage": [
+      "/hours-location/"
+    ],
+    "addressesThatCouldNotBeDownloaded": {
+      "brokenOnTheLivePagesToo": 5,
+      "namedOnlyInTheLinkPreviewTagsOfTheLivePages": {
+        "addresses": 19,
+        "theSamePictureCarriedFromAnotherHost": 13,
+        "theSamePictureASnapshotNotShown": 6
+      }
+    }
+  },
+  "linksThatLeaveThisCopy": {
+    "google.com": 709,
+    "da4e1j5r7gw87.cloudfront.net": 354,
+    "ecp.eyeglassguide.com": 38,
+    "amazon.com": 4,
+    "howellfamilyeyecare.com": 2,
+    "givingsight.org": 2,
+    "nei.nih.gov": 1,
+    "aafa.org": 1,
+    "jpl.nasa.gov": 1,
+    "news.stanford.edu": 1,
+    "optos.com": 1,
+    "infantsee.org": 1,
+    "latisse.com": 1,
+    "astm.org": 1,
+    "en.wikipedia.org": 1,
+    "eyeglassguide.com": 1,
+    "enchroma.com": 1,
+    "o2amp.weebly.com": 1,
+    "colormax.org": 1,
+    "npr.org": 1,
+    "lowvision.preventblindness.org": 1,
+    "preventblindness.org": 1,
+    "applevis.com": 1,
+    "youtube.com": 1,
+    "healthline.com": 1,
+    "hc-sc.gc.ca": 1,
+    "uhs.umich.edu": 1,
+    "aoa.org": 1,
+    "greatglassesplayday.com": 1,
+    "get.adobe.com": 1,
+    "eyecare4kids.org": 1,
+    "sightsavers.org": 1,
+    "seeintl.org": 1,
+    "diabetes.org": 1
+  },
+  "privateBuildAudit": {
+    "gate": {
+      "verdict": "NOT-READY",
+      "pass": 22,
+      "fail": [
+        "C03",
+        "C06",
+        "C07",
+        "C16",
+        "C18",
+        "C20",
+        "C22"
+      ],
+      "unproven": 0
+    },
+    "textUnits": {
+      "checked": 13505,
+      "found": 13503,
+      "leftOutWithReason": 2,
+      "missing": 0
+    },
+    "meanRecall": 99.98,
+    "sweep": {
+      "loads": 1416,
+      "blocker": 0,
+      "major": 0,
+      "minor": 989,
+      "nit": 35
+    },
+    "decontamination": "CLEAN",
+    "crawlAndDownloadFailures": {
+      "total": 33,
+      "addressesTheLiveSiteAnswersNotFound": 7,
+      "pictureAddresses": 24,
+      "documentRefused": 1,
+      "deadLinksToOtherOrganisations": 1
+    }
+  }
+}
