@@ -61,7 +61,7 @@ Source Sans 3 and Source Serif 4, under the SIL Open Font License 1.1, served fr
 | Map frames that carry `referrerpolicy="no-referrer"` | 353 (all carried it in the private build) |
 | Canonical tags removed (pages the build makes itself) | 3 |
 | Search-index entries reduced to their title, section and the short names they are filed under | 10 |
-| Comments taken out (stylesheet, script) | 278, 111 |
+| Comments taken out (stylesheet, script) | 280, 111 |
 | Generated files given the AI label | 113 |
 | Files of the private build not shipped | `.htaccess`, `llms.txt`, `sitemap.xml`, `vercel.json`, `_headers`, `_redirects`, and the practice's PDF |
 | `robots.txt` | replaced by the preview's own (`Disallow: /`) |

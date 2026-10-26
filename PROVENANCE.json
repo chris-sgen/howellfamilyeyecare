@@ -2,7 +2,7 @@
   "what": "Unofficial redesign preview of www.howellfamilyeyecare.com. Not operated by, affiliated with or endorsed by Howell Family EyeCare.",
   "preview": "https://chris-sgen.github.io/howellfamilyeyecare/",
   "liveSite": "https://www.howellfamilyeyecare.com/",
-  "generated": "2026-10-26T04:43:15.963Z",
+  "generated": "2026-10-26T05:56:52.803Z",
   "snapshot": {
     "pagesReadUtc": {
       "first": "2026-10-25T23:18:17.246Z",
@@ -448,7 +448,7 @@
       "assets/js/site.bb4c3291bd.js"
     ],
     "commentsTakenOut": {
-      "css": 278,
+      "css": 280,
       "js": 111
     },
     "svgCleaned": [],
@@ -757,10 +757,22 @@
       "/contact-us/testimonials/",
       "/testimonial/4727-2/",
       "/testimonial/4729-2/"
+    ],
+    "ownPagesWithNoLiveHeadingOrTitle": [
+      {
+        "page": "/testimonial/4727-2/",
+        "headingGiven": "Testimonial from Ronnie B.",
+        "label": "Testimonial from"
+      },
+      {
+        "page": "/testimonial/4729-2/",
+        "headingGiven": "Testimonial from Silvana A.",
+        "label": "Testimonial from"
+      }
     ]
   },
   "verification": {
-    "measured": "on a local server imitating a GitHub Pages project site under the project path, then at the public address",
+    "measured": "on a local server imitating a GitHub Pages project site under the project path",
     "browser": "Chrome 155",
     "previewChecksVerdict": "PASS",
     "pageLoads": 707,
@@ -781,8 +793,8 @@
       "results": 30,
       "outside": 0
     },
-    "referencesRead": 76833,
-    "localReferences": 71666,
+    "referencesRead": 76836,
+    "localReferences": 71667,
     "binaries": {
       "webp": 1086,
       "mp4": 2,
@@ -825,43 +837,6 @@
       "rulesOfTheBrowserPass": 22,
       "rulesOfTheFormTrials": 12,
       "rulesOfThePublicAddressPass": 19
-    },
-    "publicAddress": {
-      "filesIdentical": 1459,
-      "filesAsked": 1459,
-      "notFound": {
-        "status": 404,
-        "isThePage": true
-      },
-      "withoutSlash": {
-        "page": "1-eye-allergies-2016/",
-        "status": 301,
-        "location": "https://chris-sgen.github.io/howellfamilyeyecare/1-eye-allergies-2016/"
-      },
-      "capitals": {
-        "asked": "1-EYE-ALLERGIES-2016/",
-        "status": 404
-      },
-      "browserPages": [
-        "/",
-        "/contact-us/",
-        "/cataract-awareness-month-2019/",
-        "/our-eye-doctors/",
-        "/this-halloween-be-wary-of-costume-contact-lenses/",
-        "/category/uncategorized/",
-        "/eye-care-services/contact-lens-exams/hard-to-fit/"
-      ],
-      "formTrials": {
-        "forms": 0,
-        "trials": 0,
-        "shipped": 0,
-        "control": 0,
-        "attributes": 0,
-        "guards": 0,
-        "controlsSeen": 0,
-        "enterPressed": 0,
-        "buttonClicked": 0
-      }
     }
   },
   "pictures": {
@@ -923,7 +898,7 @@
     }
   },
   "linksThatLeaveThisCopy": {
-    "google.com": 709,
+    "google.com": 710,
     "da4e1j5r7gw87.cloudfront.net": 354,
     "ecp.eyeglassguide.com": 38,
     "amazon.com": 4,
